@@ -1,5 +1,5 @@
 # simple-crud-Laravel
-This is a simple project to teach me the basics of Laravel and the repository master.
+This is a simple project to teach me the basics of Laravel and the repository pattern.
 
 # Tasks
 
